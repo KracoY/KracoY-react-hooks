@@ -36,3 +36,15 @@
     transform: rotate(360deg);
   }
 }
+
+
+.di{
+  width: 50vw;
+  height: 30vh;
+  background-color: rgba(128, 128, 128, 0.363);
+  box-shadow: 10px 10px rgba(0, 0, 0, 0.13);
+  color: black;
+  border-radius: 5px;
+  margin: auto;
+  margin-top: 20px;
+}
